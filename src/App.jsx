@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Kisha Aggarwal",
-  title: "Frontend Developer & Solution-Oriented Problem Solver",
+  title: "Frontend Developer & Solution Oriented Problem Solver",
   email: "kishaaggarwal195@gmail.com",
   gitHub: "kishaaggarwal32",
   instagram: "kishaaggarwal195",
